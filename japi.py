@@ -25,7 +25,10 @@ def main():
 			print()
 			print("The current price of " + i + " is: $" + s)
 			print()
+	print("Stock Quotes retrieved successfully!")
 		
 
 		
+
+
 main()
