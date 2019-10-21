@@ -1,0 +1,107 @@
+Script started on 2019-10-21 10:15:20-0700
+]0;matthew@matthew-VirtualBox: ~/Documents[01;32mmatthew@matthew-VirtualBox[00m:[01;34m~/Documents[00m$ lsrm git_activities [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kpython3 p[Kjapi.py
+Enter a stock symbol: aapl
+
+{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "AAPL",
+            "2. price": "240.7700",
+            "3. volume": "14266150",
+            "4. timestamp": "2019-10-21 13:15:27"
+        }
+    ]
+}
+
+The current price of aapl is: $240.7700
+
+Enter a stock symbol: sbux
+
+{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "SBUX",
+            "2. price": "85.6950",
+            "3. volume": "1750267",
+            "4. timestamp": "2019-10-21 13:15:05"
+        }
+    ]
+}
+
+The current price of sbux is: $85.6950
+
+Enter a stock symbol: res
+
+{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "RES",
+            "2. price": "5.0450",
+            "3. volume": "3290002",
+            "4. timestamp": "2019-10-21 13:13:49"
+        }
+    ]
+}
+
+The current price of res is: $5.0450
+
+Enter a stock symbol: lea
+
+{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "LEA",
+            "2. price": "120.7800",
+            "3. volume": "118771",
+            "4. timestamp": "2019-10-21 13:13:18"
+        }
+    ]
+}
+
+The current price of lea is: $120.7800
+
+Enter a stock symbol: yum
+
+{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "YUM",
+            "2. price": "112.5300",
+            "3. volume": "555974",
+            "4. timestamp": "2019-10-21 13:14:05"
+        }
+    ]
+}
+
+The current price of yum is: $112.5300
+
+Enter a stock symbol: quot  it
+]0;matthew@matthew-VirtualBox: ~/Documents[01;32mmatthew@matthew-VirtualBox[00m:[01;34m~/Documents[00m$ exit
+exit
+
+Script done on 2019-10-21 10:16:05-0700
